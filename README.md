@@ -1,4 +1,4 @@
-# BI_Projects
+# BI_Workshop_Project
 This folder contains all the preprocessing and transformation steps applied to raw data to make it suitable for accurate and insightful visualizations in Power BI.
 
 🧹 Purpose:
